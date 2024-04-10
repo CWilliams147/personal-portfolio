@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full-Stack Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Web Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Software Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Software Engineer",
     icon: creator,
   },
 ];
@@ -172,27 +172,19 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "He is a tremendously talented individual that can excel in just about every area that captures his imagination. I've seen him go from ground level knowledge on many different skills to becoming exceptional in no time.",
+    name: "James Figeuroa",
+    designation: "Branch Manager",
+    company: "Weed Man Lawn Care",
+    image: "public/Jamespfp.jpeg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "His proactive approach to self-development is evident through additional certifications and credentials he has pursued. As an employee, Cameron's diligence, high standards and passion for his work make him a valuable asset to any organization.",
+    name: "John Wilson",
+    designation: "General Manager",
+    company: "Weed Man Lawn Care",
+    image: "public/Johnpfp.jpeg",
   },
 ];
 
