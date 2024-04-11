@@ -23,6 +23,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  Jamespfp,
+  Johnpfp,
 } from "../assets";
 
 export const navLinks = [
@@ -176,7 +178,7 @@ const testimonials = [
     name: "James Figeuroa",
     designation: "Branch Manager",
     company: "Weed Man Lawn Care",
-    image: "src/assets/Jamespfp.png",
+    image: Jamespfp,
   },
   {
     testimonial:
@@ -184,26 +186,26 @@ const testimonials = [
     name: "John Wilson",
     designation: "General Manager",
     company: "Weed Man Lawn Care",
-    image: "src/assets/Johnpfp.png",
+    image: Johnpfp,
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "FanMatch",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "FanMatch is a dynamic platform designed to unite football fans. It is constructed using a React frontend and uses Supabase for the database as well as using the API-FOOTBALL api to populate data. Built with passion for the sport, FanMatch facilitates meaningful connections among fans of various football teams. Whether you're looking for local fans to watch the game with, seeking to share your thoughts on the latest match, or wanting to celebrate your team's victory with like-minded supporters, FanMatch is the place for you.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "supabase",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "APIFOOTBALL",
         color: "pink-text-gradient",
       },
     ],
