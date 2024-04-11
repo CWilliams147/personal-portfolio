@@ -26,12 +26,12 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import FanMatch from "./FanMatch.png";
 
 import Jamespfp from "./Jamespfp.png";
 import Johnpfp from "./Johnpfp.png";
+import Freshwaterlogo from "./Freshwaterlogo.png";
+import Motivelogo from "./Motivelogo.png";
 
 export {
   portfolioLogo,
@@ -59,9 +59,9 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
   Jamespfp,
   Johnpfp,
+  FanMatch,
+  Freshwaterlogo,
+  Motivelogo,
 };
