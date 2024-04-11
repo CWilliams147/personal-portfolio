@@ -30,6 +30,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import Jamespfp from "./Jamespfp.png";
+import Johnpfp from "./Johnpfp.png";
+
 export {
   portfolioLogo,
   backend,
@@ -59,4 +62,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  Jamespfp,
+  Johnpfp,
 };
